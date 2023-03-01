@@ -38,11 +38,7 @@
 					<td>rul@gmail.com</td>
 					<td>Bogor</td>
 					<td>+62856555635</td>
-				</tr>
-
-        
-				
-						 
+				</tr>	 
 				  	
 				<tr>
 				<?php
@@ -58,8 +54,8 @@
 					<td> <?= $alamat  ?></td> 
 					<td> <?= $telepon  ?></td> 
 				</tr>
-			<?php	
-			}
+				<?php	
+					}
 				?>
 			 	
 				 
